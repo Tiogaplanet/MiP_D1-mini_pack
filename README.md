@@ -17,3 +17,15 @@ Please see the [wiki](https://github.com/Tiogaplanet/MiP_D1-mini-Pack/wiki) for 
 I am a hobbyiest sharing this designed-at-home board with fans of robotics, MiP and the ESP8266 wifi chip.  While I strive to make this board as useful and "right" as it can be, in no way shall I be responsible for any damage that may occur to your MiP or D1 mini either incidently or directly through the use of this board.  You use this board at your own risk.
 
 If you are experienced in robotics or circuit design and spot something that can or should be improved, please review [CONTRIBUTING.md](https://github.com/Tiogaplanet/MiP_D1-mini-Pack/blob/master/CONTRIBUTING.md) and submit a pull request.
+
+## License
+Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
