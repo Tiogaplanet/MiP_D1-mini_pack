@@ -6,9 +6,9 @@ A [D1 mini](https://wiki.wemos.cc/products:d1:d1_mini) adapter board for [WowWee
 * I'd also like to thank [Casey Kuhns](https://github.com/caseykuhns) who while at [SparkFun](https://github.com/sparkfun) developed the original [ProMini Pack](https://github.com/sparkfun/mip_promini-pack) and the [ProtoPack](https://github.com/sparkfun/mip_proto-pack) which provided the foundation for this project.
 
 ## OSH Park renderings
-![The top of the MiP D1 mini Pack](https://github.com/Tiogaplanet/MiP_D1-mini-Pack/raw/master/images/top.png)
+![The top of the MiP D1 mini Pack](https://github.com/Tiogaplanet/MiP_D1-mini-Pack/raw/v3/images/top.png)
 
-![The bottom of the MiP D1 mini Pack](https://github.com/Tiogaplanet/MiP_D1-mini-Pack/raw/master/images/bottom.png)
+![The bottom of the MiP D1 mini Pack](https://github.com/Tiogaplanet/MiP_D1-mini-Pack/raw/v3/images/bottom.png)
 
 ## Installation
 Please see the [wiki](https://github.com/Tiogaplanet/MiP_D1-mini-Pack/wiki) for up-to-date installation instructions.
