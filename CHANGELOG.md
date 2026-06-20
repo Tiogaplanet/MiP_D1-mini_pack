@@ -10,7 +10,8 @@ The workaround has been to disconnect the USB cable connecting the D1 mini to th
 flashing the program onto the D1 mini.
  
 ### Added
- 
+- A 10KΩ resistor between pin D8 and ground.
+
 ### Changed
   
 - Migrated project from Eagle 7.7.0 to KiCAD.
