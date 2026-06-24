@@ -1,4 +1,4 @@
-# MiP_D1-mini_pack
+# MiP D1-mini pack
 A [D1 mini](https://wiki.wemos.cc/products:d1:d1_mini) adapter board for [WowWee Labs'](https://github.com/WowWeeLabs/) [MiP](https://wowwee.com/mip) robot.  Similar to the [MiP ProMini Pack](https://github.com/adamgreen/MiP_ProMini-Pack), this board adapts the D1 mini and compatible boards to MiP.  Either install the D1 mini Pack in a pair of pin headers or solder it directly to the board and you'll be programming MiP to connect to the Internet in no time.
 
 ## Acknowledgment
