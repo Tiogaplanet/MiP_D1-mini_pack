@@ -2176,7 +2176,7 @@
 			(uuid "40d1f2a6-4450-4c9e-82cb-a16cef49e157")
 		)
 		(instances
-			(project "MiP D1 mini Pack"
+			(project "MiP D1 mini pack"
 				(path "/b2e24b55-e9ec-47a9-a18b-15b59863e31a"
 					(reference "R1")
 					(unit 1)
@@ -2263,7 +2263,7 @@
 			(uuid "3c89bd60-ae98-4594-910c-d081cd94c014")
 		)
 		(instances
-			(project "MiP D1 mini Pack"
+			(project "MiP D1 mini pack"
 				(path "/b2e24b55-e9ec-47a9-a18b-15b59863e31a"
 					(reference "J1")
 					(unit 1)
@@ -2341,7 +2341,7 @@
 			(uuid "e4162e19-b31d-4d48-9ea8-c7c13bd36d20")
 		)
 		(instances
-			(project "MiP D1 mini Pack"
+			(project "MiP D1 mini pack"
 				(path "/b2e24b55-e9ec-47a9-a18b-15b59863e31a"
 					(reference "#PWR02")
 					(unit 1)
@@ -2423,7 +2423,7 @@
 			(uuid "4760765b-2f3a-497a-94d8-96cdeda807c3")
 		)
 		(instances
-			(project "MiP D1 mini Pack"
+			(project "MiP D1 mini pack"
 				(path "/b2e24b55-e9ec-47a9-a18b-15b59863e31a"
 					(reference "J2")
 					(unit 1)
@@ -2503,7 +2503,7 @@
 			(uuid "4ba39507-c8f9-4cac-b0eb-438bf181a2a4")
 		)
 		(instances
-			(project "MiP D1 mini Pack"
+			(project "MiP D1 mini pack"
 				(path "/b2e24b55-e9ec-47a9-a18b-15b59863e31a"
 					(reference "C1")
 					(unit 1)
@@ -2581,7 +2581,7 @@
 			(uuid "e8eab6a4-19cd-43c2-915f-7d28432e7584")
 		)
 		(instances
-			(project "MiP D1 mini Pack"
+			(project "MiP D1 mini pack"
 				(path "/b2e24b55-e9ec-47a9-a18b-15b59863e31a"
 					(reference "#PWR011")
 					(unit 1)
@@ -2659,7 +2659,7 @@
 			(uuid "4692b804-b188-4a90-bf9c-6b07a6578191")
 		)
 		(instances
-			(project "MiP D1 mini Pack"
+			(project "MiP D1 mini pack"
 				(path "/b2e24b55-e9ec-47a9-a18b-15b59863e31a"
 					(reference "#PWR09")
 					(unit 1)
@@ -2735,7 +2735,7 @@
 			)
 		)
 		(instances
-			(project "MiP D1 mini Pack"
+			(project "MiP D1 mini pack"
 				(path "/b2e24b55-e9ec-47a9-a18b-15b59863e31a"
 					(reference "#SYM1")
 					(unit 1)
@@ -2813,7 +2813,7 @@
 			(uuid "c670ef2d-3426-4084-88e0-4744e1cd355f")
 		)
 		(instances
-			(project "MiP D1 mini Pack"
+			(project "MiP D1 mini pack"
 				(path "/b2e24b55-e9ec-47a9-a18b-15b59863e31a"
 					(reference "#PWR05")
 					(unit 1)
@@ -2891,7 +2891,7 @@
 			(uuid "50f77f89-e0e3-420a-8f81-547ab324a22a")
 		)
 		(instances
-			(project "MiP D1 mini Pack"
+			(project "MiP D1 mini pack"
 				(path "/b2e24b55-e9ec-47a9-a18b-15b59863e31a"
 					(reference "#PWR04")
 					(unit 1)
@@ -2969,7 +2969,7 @@
 			(uuid "fd3a23b8-844e-472e-bbc1-2d7bd8c2bb2f")
 		)
 		(instances
-			(project "MiP D1 mini Pack"
+			(project "MiP D1 mini pack"
 				(path "/b2e24b55-e9ec-47a9-a18b-15b59863e31a"
 					(reference "#PWR010")
 					(unit 1)
@@ -3047,7 +3047,7 @@
 			(uuid "061c1d66-9133-4e3a-bf59-49484851acdf")
 		)
 		(instances
-			(project "MiP D1 mini Pack"
+			(project "MiP D1 mini pack"
 				(path "/b2e24b55-e9ec-47a9-a18b-15b59863e31a"
 					(reference "#PWR06")
 					(unit 1)
@@ -3136,7 +3136,7 @@
 			(uuid "b1a598f6-0445-4add-9203-ea499d3589fd")
 		)
 		(instances
-			(project "MiP D1 mini Pack"
+			(project "MiP D1 mini pack"
 				(path "/b2e24b55-e9ec-47a9-a18b-15b59863e31a"
 					(reference "U2")
 					(unit 1)
@@ -3214,7 +3214,7 @@
 			(uuid "7ec51288-3494-4d71-8846-952662763de2")
 		)
 		(instances
-			(project "MiP D1 mini Pack"
+			(project "MiP D1 mini pack"
 				(path "/b2e24b55-e9ec-47a9-a18b-15b59863e31a"
 					(reference "#PWR03")
 					(unit 1)
@@ -3337,7 +3337,7 @@
 			(uuid "552a71e4-162e-4f99-a7b5-9642e2989d79")
 		)
 		(instances
-			(project "MiP D1 mini Pack"
+			(project "MiP D1 mini pack"
 				(path "/b2e24b55-e9ec-47a9-a18b-15b59863e31a"
 					(reference "U1")
 					(unit 1)
@@ -3415,7 +3415,7 @@
 			(uuid "a822ea43-aa6c-46ad-9975-fab39c8e17f2")
 		)
 		(instances
-			(project "MiP D1 mini Pack"
+			(project "MiP D1 mini pack"
 				(path "/b2e24b55-e9ec-47a9-a18b-15b59863e31a"
 					(reference "#PWR08")
 					(unit 1)
@@ -3493,7 +3493,7 @@
 			(uuid "c7206abb-49d6-4fc8-bb9d-728a8ee0d647")
 		)
 		(instances
-			(project "MiP D1 mini Pack"
+			(project "MiP D1 mini pack"
 				(path "/b2e24b55-e9ec-47a9-a18b-15b59863e31a"
 					(reference "#PWR01")
 					(unit 1)
