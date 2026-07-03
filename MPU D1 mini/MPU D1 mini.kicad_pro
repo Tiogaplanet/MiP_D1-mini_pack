@@ -489,7 +489,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "MiP D1 mini pack.kicad_pro",
+    "filename": "MPU D1 mini.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -857,8 +857,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "MiP D1 mini pack.kicad_sch",
-        "name": "MiP D1 mini pack",
+        "filename": "MPU D1 mini.kicad_sch",
+        "name": "MPU D1 mini",
         "uuid": "b2e24b55-e9ec-47a9-a18b-15b59863e31a"
       }
     ],
