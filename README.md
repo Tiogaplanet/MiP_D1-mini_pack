@@ -6,14 +6,26 @@ A [D1 mini](https://wiki.wemos.cc/products:d1:d1_mini) adapter board for [WowWee
 * I'd also like to thank [Casey Kuhns](https://github.com/caseykuhns) who while at [SparkFun](https://github.com/sparkfun) developed the original [ProMini Pack](https://github.com/sparkfun/mip_promini-pack) and the [ProtoPack](https://github.com/sparkfun/mip_proto-pack) which provided the foundation for this project.
 
 ## OSH Park renderings
-![The top of the MiP D1 mini Pack](https://github.com/Tiogaplanet/MiP_D1-mini-Pack/raw/master/images/top.png)
+<img src="https://github.com/Tiogaplanet/MiP_D1-mini_pack/raw/v3/images/top.png" alt="The top of the MiP D1 mini pack" width="300">
 
-![The bottom of the MiP D1 mini Pack](https://github.com/Tiogaplanet/MiP_D1-mini-Pack/raw/master/images/bottom.png)
+<img src="https://github.com/Tiogaplanet/MiP_D1-mini_pack/raw/v3/images/bottom.png" alt="The bottom of the MiP D1 mini pack" width="300">
 
 ## Installation
-Please see the [wiki](https://github.com/Tiogaplanet/MiP_D1-mini-Pack/wiki) for up-to-date installation instructions.
+Please see the [wiki](https://github.com/Tiogaplanet/MiP_D1-mini_pack/wiki) for up-to-date installation instructions.
 
 ## Disclaimer
 I am a hobbyiest sharing this designed-at-home board with fans of robotics, MiP and the ESP8266 wifi chip.  While I strive to make this board as useful and "right" as it can be, in no way shall I be responsible for any damage that may occur to your MiP or D1 mini either incidently or directly through the use of this board.  You use this board at your own risk.
 
-If you are experienced in robotics or circuit design and spot something that can or should be improved, please review [CONTRIBUTING.md](https://github.com/Tiogaplanet/MiP_D1-mini-Pack/blob/master/CONTRIBUTING.md) and submit a pull request.
+If you are experienced in robotics or circuit design and spot something that can or should be improved, please review [CONTRIBUTING.md](https://github.com/Tiogaplanet/MiP_D1-mini_pack/blob/master/CONTRIBUTING.md) and submit a pull request.
+
+## License
+Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
